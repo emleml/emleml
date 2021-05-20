@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emleml, Emily Lawes
 - 👀 I’m interested in a11y, UX Design, WAI-ARIA, Semantic HTML, CSS, jQuery, VBA, Data Analysis, Inclusive Design, Mathematics, Musical Theatre, Photography
-- 🌱 I’m currently learning Ruby SASS and better accessibility auditing techniques for mobile applications and AJAX applications
-- 💞️ I’m looking to collaborate on improving accessibility for public websites or applications for public or private sector organisations.
+- 🌱 I’m currently learning better accessibility auditing techniques for mobile applications and AJAX applications
+- 💞️ I’m looking to collaborate on improving accessibility for public websites or applications for public or private sector organisations
 - 📫 @emilylawes on Twitter, and my LinkedIn is https://linkedin.com/in/emilylawes
 
 <!---
